@@ -22,5 +22,8 @@ text (highlights chapter)
 (activates link)
 [link] (https://github.com/astghikkh15/test.git)
 
-(activates image)
+
+
 ![alt text](IMG_7917.JPG)
+
+(activates image)

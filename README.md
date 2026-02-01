@@ -27,3 +27,24 @@ text (highlights chapter)
 ![alt text](IMG_7917.JPG)
 
 (activates image)
+
+| x | y |
+| ----------- | ----------- |
+| 1 | 2 |
+| 3 | 4 |
+
+(adds table)
+
+```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
+
+(adds a codeblock)
+
+~~strikethrough~~ (adds a line through text)
+
+emoji 😛

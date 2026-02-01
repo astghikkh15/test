@@ -22,18 +22,18 @@ text (highlights chapter)
 (activates link)
 [link] (https://github.com/astghikkh15/test.git)
 
-
+(activates image)
 
 ![alt text](IMG_7917.JPG)
 
-(activates image)
+(adds table)
 
 | x | y |
 | ----------- | ----------- |
 | 1 | 2 |
 | 3 | 4 |
 
-(adds table)
+(adds a codeblock)
 
 ```
 {
@@ -43,7 +43,7 @@ text (highlights chapter)
 }
 ```
 
-(adds a codeblock)
+
 
 ~~strikethrough~~ (adds a line through text)
 

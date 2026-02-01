@@ -20,7 +20,7 @@ grouped text
 text (highlights chapter)
 ---
 (activates link)
-[link] (https://github.com/astghikkh15/test.git)
+[link](https://github.com/astghikkh15/test.git)
 
 (activates image)
 

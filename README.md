@@ -1,20 +1,26 @@
-# heading
-## heading
-### heading
+# heading (biggest)
+## heading (medium)
+### heading (smallest)
 
-**bold text**
+**bold text** (makes text darker than default)
 
-*italicized text*
+*italicized text* (tilts text)
 
-> blockqoute 
+> blockqoute (highlights text)
 
-1. item
+grouped text
+
+1. item 
 2. item
 - item
 - item
 
-`this is code`
----
-[title] (https://github.com/astghikkh15/test.git)
+`this is code` (highlights code)
 
+text (highlights chapter)
+---
+(activates link)
+[link] (https://github.com/astghikkh15/test.git)
+
+(activates image)
 ![alt text](IMG_7917.JPG)
